@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5a70f4a5-d120-4ecc-9cac-c6d5d10d84b0" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="5a70f4a5-d120-4ecc-9cac-c6d5d10d84b0" name="Default" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -46,6 +43,7 @@
       <workItem from="1600097751029" duration="177000" />
       <workItem from="1600098100945" duration="735000" />
       <workItem from="1602886183876" duration="588000" />
+      <workItem from="1604308810801" duration="77000" />
     </task>
     <servers />
   </component>
@@ -54,5 +52,11 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2469" y="154" key="FileChooserDialogImpl" timestamp="1604308875493">
+      <screen x="1920" y="0" width="1536" height="832" />
+    </state>
+    <state x="2469" y="154" key="FileChooserDialogImpl/1920.0.1536.832/0.0.1920.1040@1920.0.1536.832" timestamp="1604308875493" />
   </component>
 </project>
